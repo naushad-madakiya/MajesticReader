@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Majestic Reader"
 include ':app'
+include ':core'
